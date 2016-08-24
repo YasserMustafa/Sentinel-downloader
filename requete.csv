@@ -1,0 +1,2 @@
+zone_etude;requete;nuage;Tiles;bands
+Barcelonnette;platformname:Sentinel-2 AND footprint:"Intersects(POLYGON((6.55 44.31, 6.55 44.47, 6.86 44.47, 6.86 44.31, 6.55 44.31)))";10;T32TLQ;B02, B03, B04

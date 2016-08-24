@@ -1,0 +1,3 @@
+zone_etude;requete;nuage;Tiles;bands
+Barcelonnette;platformname:Sentinel-2 AND footprint:"Intersects(POLYGON((6.55 44.31, 6.55 44.47, 6.86 44.47, 6.86 44.31, 6.55 44.31)))";25;T32TLQ;B02, B03, B04
+Barcelonnette;platformname:Sentinel-1 AND footprint:"Intersects(POLYGON((6.55 44.31, 6.55 44.47, 6.86 44.47, 6.86 44.31, 6.55 44.31)))" AND beginposition:[2016-03-15T00:00:00.000Z TO NOW];;;

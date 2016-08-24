@@ -1,0 +1,10 @@
+<feed>
+  <entry>
+    <id>1</id>
+    <titre>titre1</titre>
+  </entry>
+  <entry>
+    <id>2</id>
+    <titre>titre2</titre>
+  </entry>
+</feed>

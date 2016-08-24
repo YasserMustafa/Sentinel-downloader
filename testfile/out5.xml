@@ -1,0 +1,10 @@
+<feed>
+  <c-1 laugh="Hi!"/><entry>
+    <id>1</id>
+    <titre>titre1</titre>
+  </entry>
+  <entry>
+    <id>2</id>
+    <titre>nouveau titre</titre>
+  </entry>
+<entry><id>3</id><titre>titre3</titre></entry></feed>

@@ -1,0 +1,5 @@
+zone_etude;requete;nuage;Tiles;bands
+zone1;requeteS1;;;
+zone1;requeteS2;20;T1,T2;B1,B2
+zone2;requeteS1;;;
+zone2;requeteS2;55;T5,T6;B3,B4

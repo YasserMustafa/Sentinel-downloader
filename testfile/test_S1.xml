@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns="http://www.w3.org/2005/Atom">
+<title>Sentinels Scientific Data Hub search results for: footprint:"Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))"</title>
+<subtitle>Displaying 0 to 9 of 31948 total results. Request done in 2.602 seconds.</subtitle>
+<updated>2016-02-09T13:56:03.527Z</updated>
+<author>
+<name>Sentinels Scientific Data Hub</name>
+</author>
+<id>https://scihub.copernicus.eu/dhus/api/search?q=footprint:"Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))"</id>
+<opensearch:totalResults>31948</opensearch:totalResults>
+<opensearch:startIndex>0</opensearch:startIndex>
+<opensearch:itemsPerPage>10</opensearch:itemsPerPage>
+<opensearch:Query role="request" searchTerms="footprint:&quot;Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))&quot;" startPage="1"/>
+<link rel="self" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/api/search?q=footprint:&quot;Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))&quot;&amp;start=0&amp;rows=10"/>
+<link rel="first" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/api/search?q=footprint:&quot;Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))&quot;&amp;start=0&amp;rows=10"/>
+<link rel="next" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/api/search?q=footprint:&quot;Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))&quot;&amp;start=10&amp;rows=10"/>
+<link rel="last" type="application/atom+xml" href="https://scihub.copernicus.eu/dhus/api/search?q=footprint:&quot;Intersects(POLYGON((-4.53 29.85,26.75 29.85,26.75 46.80,-4.53 46.80,-4.53 29.85)))&quot;&amp;start=31947&amp;rows=10"/>
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_description.xml"/>
+<entry>
+<title>S1A_IW_GRDH_1SDV_20160209T052757_20160209T052822_009865_00E736_8803</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1fb758c2-bdad-4742-918e-387d0420a3da')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1fb758c2-bdad-4742-918e-387d0420a3da')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1fb758c2-bdad-4742-918e-387d0420a3da')/Products('Quicklook')/$value"/>
+<id>1fb758c2-bdad-4742-918e-387d0420a3da</id>
+<summary>Date: 2016-02-09T05:27:57.505Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 1.61 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_GRDH_1SDV_20160209T052757_20160209T052822_009865_00E736_8803.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;40.636013,10.730951 41.036205,7.714659 42.536068,8.034547 42.136723,11.121647 40.636013,10.730951&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_GRDH_1SDV_20160209T052757_20160209T052822_009865_00E736_8803</str>
+<date name="ingestiondate">2016-02-09T10:28:06.968Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((10.730951 40.636013,7.714659 41.036205,8.034547 42.536068,11.121647 42.136723,10.730951 40.636013))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">GRD</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:27:57.505Z</date>
+<date name="endposition">2016-02-09T05:28:22.503Z</date>
+<str name="size">1.61 GB</str>
+<int name="slicenumber">8</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_GRDH_1SDV_20160209T052937_20160209T053002_009865_00E736_4043</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('e8515f3e-589d-43d9-941c-a549a7efe964')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('e8515f3e-589d-43d9-941c-a549a7efe964')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('e8515f3e-589d-43d9-941c-a549a7efe964')/Products('Quicklook')/$value"/>
+<id>e8515f3e-589d-43d9-941c-a549a7efe964</id>
+<summary>Date: 2016-02-09T05:29:37.505Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 1.61 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_GRDH_1SDV_20160209T052937_20160209T053002_009865_00E736_4043.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;34.625370,9.245866 35.030888,6.470556 36.532936,6.776411 36.129269,9.604664 34.625370,9.245866&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_GRDH_1SDV_20160209T052937_20160209T053002_009865_00E736_4043</str>
+<date name="ingestiondate">2016-02-09T09:28:09.999Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((9.245866 34.625370,6.470556 35.030888,6.776411 36.532936,9.604664 36.129269,9.245866 34.625370))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">GRD</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:29:37.505Z</date>
+<date name="endposition">2016-02-09T05:30:02.503Z</date>
+<str name="size">1.61 GB</str>
+<int name="slicenumber">12</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_SLC__1SDV_20160209T053001_20160209T053028_009865_00E736_91F7</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('5f6786df-bf2f-40fa-ac14-ddd0b87db216')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('5f6786df-bf2f-40fa-ac14-ddd0b87db216')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('5f6786df-bf2f-40fa-ac14-ddd0b87db216')/Products('Quicklook')/$value"/>
+<id>5f6786df-bf2f-40fa-ac14-ddd0b87db216</id>
+<summary>Date: 2016-02-09T05:30:01.015Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 7.57 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_SLC__1SDV_20160209T053001_20160209T053028_009865_00E736_91F7.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;33.030930,8.886100 33.434704,6.193382 35.114731,6.528870 34.712997,9.277875 33.030930,8.886100&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_SLC__1SDV_20160209T053001_20160209T053028_009865_00E736_91F7</str>
+<date name="ingestiondate">2016-02-09T09:22:44.268Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW1 IW2 IW3</str>
+<str name="footprint">POLYGON ((8.886100 33.030930,6.193382 33.434704,6.528870 35.114731,9.277875 34.712997,8.886100 33.030930))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">SLC</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:30:01.015Z</date>
+<date name="endposition">2016-02-09T05:30:28.954Z</date>
+<str name="size">7.57 GB</str>
+<int name="slicenumber">13</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_SLC__1SDV_20160209T052616_20160209T052643_009865_00E736_D377</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('3ae80a7f-d0f6-4704-8536-cb1348f2f2eb')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('3ae80a7f-d0f6-4704-8536-cb1348f2f2eb')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('3ae80a7f-d0f6-4704-8536-cb1348f2f2eb')/Products('Quicklook')/$value"/>
+<id>3ae80a7f-d0f6-4704-8536-cb1348f2f2eb</id>
+<summary>Date: 2016-02-09T05:26:16.639Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 7.29 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_SLC__1SDV_20160209T052616_20160209T052643_009865_00E736_D377.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;46.571079,12.314263 46.965843,9.015028 48.581314,9.384243 48.185459,12.789509 46.571079,12.314263&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_SLC__1SDV_20160209T052616_20160209T052643_009865_00E736_D377</str>
+<date name="ingestiondate">2016-02-09T09:22:43.786Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW1 IW2 IW3</str>
+<str name="footprint">POLYGON ((12.314263 46.571079,9.015028 46.965843,9.384243 48.581314,12.789509 48.185459,12.314263 46.571079))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">SLC</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:26:16.639Z</date>
+<date name="endposition">2016-02-09T05:26:43.606Z</date>
+<str name="size">7.29 GB</str>
+<int name="slicenumber">4</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_SLC__1SDV_20160209T052936_20160209T053003_009865_00E736_AB52</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('26b6ec6a-5d1e-4302-b03a-3ac406fcb574')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('26b6ec6a-5d1e-4302-b03a-3ac406fcb574')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('26b6ec6a-5d1e-4302-b03a-3ac406fcb574')/Products('Quicklook')/$value"/>
+<id>26b6ec6a-5d1e-4302-b03a-3ac406fcb574</id>
+<summary>Date: 2016-02-09T05:29:36.188Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 7.29 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_SLC__1SDV_20160209T052936_20160209T053003_009865_00E736_AB52.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;34.585720,9.234726 34.986568,6.495586 36.608017,6.822156 36.208912,9.619701 34.585720,9.234726&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_SLC__1SDV_20160209T052936_20160209T053003_009865_00E736_AB52</str>
+<date name="ingestiondate">2016-02-09T09:22:41.399Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW1 IW2 IW3</str>
+<str name="footprint">POLYGON ((9.234726 34.585720,6.495586 34.986568,6.822156 36.608017,9.619701 36.208912,9.234726 34.585720))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">SLC</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:29:36.188Z</date>
+<date name="endposition">2016-02-09T05:30:03.163Z</date>
+<str name="size">7.29 GB</str>
+<int name="slicenumber">12</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_SLC__1SDV_20160209T052821_20160209T052848_009865_00E736_9A1C</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('0b34c77a-776e-4e6d-ae92-678e9c972be0')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('0b34c77a-776e-4e6d-ae92-678e9c972be0')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('0b34c77a-776e-4e6d-ae92-678e9c972be0')/Products('Quicklook')/$value"/>
+<id>0b34c77a-776e-4e6d-ae92-678e9c972be0</id>
+<summary>Date: 2016-02-09T05:28:21.723Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 7.29 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_SLC__1SDV_20160209T052821_20160209T052848_009865_00E736_9A1C.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;39.063236,10.330090 39.460861,7.412869 41.079685,7.750594 40.682972,10.740568 39.063236,10.330090&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_SLC__1SDV_20160209T052821_20160209T052848_009865_00E736_9A1C</str>
+<date name="ingestiondate">2016-02-09T09:22:40.81Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW1 IW2 IW3</str>
+<str name="footprint">POLYGON ((10.330090 39.063236,7.412869 39.460861,7.750594 41.079685,10.740568 40.682972,10.330090 39.063236))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">SLC</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:28:21.723Z</date>
+<date name="endposition">2016-02-09T05:28:48.686Z</date>
+<str name="size">7.29 GB</str>
+<int name="slicenumber">9</int>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_OCN__2SDV_20160209T052822_20160209T052847_009865_00E736_1231</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('ea09f3ae-94c6-47a6-96de-0001bcafa313')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('ea09f3ae-94c6-47a6-96de-0001bcafa313')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('ea09f3ae-94c6-47a6-96de-0001bcafa313')/Products('Quicklook')/$value"/>
+<id>ea09f3ae-94c6-47a6-96de-0001bcafa313</id>
+<summary>Date: 2016-02-09T05:28:22.504Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 11.73 MB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_OCN__2SDV_20160209T052822_20160209T052847_009865_00E736_1231.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;39.134361,10.348795 39.535576,7.399061 41.036034,7.715346 40.635925,10.730929 39.134361,10.348795&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_OCN__2SDV_20160209T052822_20160209T052847_009865_00E736_1231</str>
+<date name="ingestiondate">2016-02-09T09:18:09.238Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((10.348795 39.134361,7.399061 39.535576,7.715346 41.036034,10.730929 40.635925,10.348795 39.134361))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">OCN</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:28:22.504Z</date>
+<date name="endposition">2016-02-09T05:28:47.503Z</date>
+<str name="size">11.73 MB</str>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_OCN__2SDV_20160209T052707_20160209T052732_009865_00E736_EBB3</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('d054fd2e-e8e8-4d81-aec5-9dd14aa35d9c')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('d054fd2e-e8e8-4d81-aec5-9dd14aa35d9c')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('d054fd2e-e8e8-4d81-aec5-9dd14aa35d9c')/Products('Quicklook')/$value"/>
+<id>d054fd2e-e8e8-4d81-aec5-9dd14aa35d9c</id>
+<summary>Date: 2016-02-09T05:27:07.505Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 11.73 MB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_OCN__2SDV_20160209T052707_20160209T052732_009865_00E736_EBB3.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;43.637131,11.520248 44.036217,8.353838 45.534546,8.686891 45.135532,11.935763 43.637131,11.520248&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_OCN__2SDV_20160209T052707_20160209T052732_009865_00E736_EBB3</str>
+<date name="ingestiondate">2016-02-09T09:18:09.108Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((11.520248 43.637131,8.353838 44.036217,8.686891 45.534546,11.935763 45.135532,11.520248 43.637131))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">OCN</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:27:07.505Z</date>
+<date name="endposition">2016-02-09T05:27:32.502Z</date>
+<str name="size">11.73 MB</str>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_OCN__2SDV_20160209T052757_20160209T052822_009865_00E736_8A7C</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('dc1ef3b1-bc9c-4294-b6a4-ae1685d76226')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('dc1ef3b1-bc9c-4294-b6a4-ae1685d76226')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('dc1ef3b1-bc9c-4294-b6a4-ae1685d76226')/Products('Quicklook')/$value"/>
+<id>dc1ef3b1-bc9c-4294-b6a4-ae1685d76226</id>
+<summary>Date: 2016-02-09T05:27:57.505Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 11.73 MB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_OCN__2SDV_20160209T052757_20160209T052822_009865_00E736_8A7C.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;40.636013,10.730951 41.036263,7.714190 42.536121,8.034065 42.136723,11.121647 40.636013,10.730951&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_OCN__2SDV_20160209T052757_20160209T052822_009865_00E736_8A7C</str>
+<date name="ingestiondate">2016-02-09T09:18:06.388Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((10.730951 40.636013,7.714190 41.036263,8.034065 42.536121,11.121647 42.136723,10.730951 40.636013))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">OCN</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:27:57.505Z</date>
+<date name="endposition">2016-02-09T05:28:22.503Z</date>
+<str name="size">11.73 MB</str>
+<str name="status">ARCHIVED</str>
+</entry>
+<entry>
+<title>S1A_IW_GRDH_1SDV_20160209T053002_20160209T053027_009865_00E736_5A9A</title>
+<link href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1486b858-7001-4383-b932-f064a6afd8be')/$value"/>
+<link rel="alternative" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1486b858-7001-4383-b932-f064a6afd8be')/"/>
+<link rel="icon" href="https://scihub.copernicus.eu/dhus/odata/v1/Products('1486b858-7001-4383-b932-f064a6afd8be')/Products('Quicklook')/$value"/>
+<id>1486b858-7001-4383-b932-f064a6afd8be</id>
+<summary>Date: 2016-02-09T05:30:02.504Z, Instrument: SAR-C SAR, Mode: VV VH, Satellite: Sentinel-1, Size: 1.61 GB</summary>
+<bool name="processed">true</bool>
+<str name="acquisitiontype">NOMINAL</str>
+<str name="filename">S1A_IW_GRDH_1SDV_20160209T053002_20160209T053027_009865_00E736_5A9A.SAFE</str>
+<str name="gmlfootprint">&lt;gml:Polygon srsName="http://www.opengis.net/gml/srs/epsg.xml#4326" xmlns:gml="http://www.opengis.net/gml"&gt;
+   &lt;gml:outerBoundaryIs&gt;
+      &lt;gml:LinearRing&gt;
+         &lt;gml:coordinates&gt;33.118580,8.905646 33.526348,6.180243 35.030655,6.471608 34.625282,9.245834 33.118580,8.905646&lt;/gml:coordinates&gt;
+      &lt;/gml:LinearRing&gt;
+   &lt;/gml:outerBoundaryIs&gt;
+&lt;/gml:Polygon&gt;</str>
+<str name="format">SAFE</str>
+<str name="identifier">S1A_IW_GRDH_1SDV_20160209T053002_20160209T053027_009865_00E736_5A9A</str>
+<date name="ingestiondate">2016-02-09T09:18:05.927Z</date>
+<str name="instrumentshortname">SAR-C SAR</str>
+<str name="sensoroperationalmode">IW</str>
+<str name="instrumentname">Synthetic Aperture Radar (C-band)</str>
+<str name="swathidentifier">IW</str>
+<str name="footprint">POLYGON ((8.905646 33.118580,6.180243 33.526348,6.471608 35.030655,9.245834 34.625282,8.905646 33.118580))</str>
+<int name="missiondatatakeid">59190</int>
+<str name="platformidentifier">0000-000A</str>
+<int name="orbitnumber">9865</int>
+<int name="lastorbitnumber">9865</int>
+<str name="orbitdirection">DESCENDING</str>
+<str name="polarisationmode">VV VH</str>
+<str name="productclass">S</str>
+<str name="producttype">GRD</str>
+<int name="relativeorbitnumber">168</int>
+<int name="lastrelativeorbitnumber">168</int>
+<str name="platformname">Sentinel-1</str>
+<date name="beginposition">2016-02-09T05:30:02.504Z</date>
+<date name="endposition">2016-02-09T05:30:27.503Z</date>
+<str name="size">1.61 GB</str>
+<int name="slicenumber">13</int>
+<str name="status">ARCHIVED</str>
+</entry>
+</feed>
+
